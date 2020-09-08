@@ -1,5 +1,3 @@
-import com.sdeo.chapter2.item3.staticFactory.Elvis;
-
 /**
  * @author sumitdeo
  * @projectName JoshuaBlochEffectiveJava
@@ -10,7 +8,6 @@ import com.sdeo.chapter2.item3.staticFactory.Elvis;
 public class TestTemplate {
 
     public static void main(String[] args) {
-        Elvis elvis = Elvis.getInstance();
-        elvis.leaveTheBuilding();
+        
     }
 }
