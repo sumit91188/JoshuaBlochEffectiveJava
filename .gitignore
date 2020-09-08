@@ -44,4 +44,4 @@ out/
 .idea_modules/
 
 # testTemplate
-*.src/TestTemplate.java
+*.TestTemplate.java
