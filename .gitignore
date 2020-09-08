@@ -42,3 +42,6 @@ out/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
+
+# testTemplate
+src/TestTemplate.java
